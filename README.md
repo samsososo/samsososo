@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Mobile Developer | Software Engineer | Technicial Consultant</h3>
+<h3 align="center">Mobile Developer | Software Engineer | Technical Consultant</h3>
 
 - 🔭 Work with talent and face challenge
 
